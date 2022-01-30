@@ -66,8 +66,6 @@ class MainActivity : AppCompatActivity() {
         }
         else{
             numeroInvalid()
-            //textResult.setText("DEBE INGRESAR UN VALOR DEL 0 AL 100")
-            //textResult.setText(conv.toString())
         }
     }
     private fun numeroInvalid(){
